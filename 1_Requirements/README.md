@@ -8,43 +8,57 @@ The main goal of our project is to provide various types of customer facilities,
 
 # Cost and Features and Timeline
 # Features
-Booking tickets
-Cancel tickets
-Change ticket price(only admin)
-View all booking records
+* Booking tickets
+* Cancel tickets
+* Change ticket price(only admin)
+* View all booking records
 
 # Cost and Timeline
-Provides flexibility
-For better performance
-User Friendly
-Can Select the seats as per choice
+* Provides flexibility
+* For better performance
+* User Friendly
+* Can Select the seats as per choice
 
 # Defining Our System
 Movie Ticket Booking System have few inbuilt features like Admin * Login * Can Change Price of a Ticket. * Can View the Reserved Tickets. * Exit System. User * Login with Credatials. * View the Movies Avaliable. * Purchase a Ticket. * View the avaliable seats. * Cancel a Ticket. * Exit System.
 
 # SWOT ANALYSIS
-<html>
-<head>
-<title>My practice page!</title>
-</head>
+![SWOT](https://user-images.githubusercontent.com/98818008/152681443-67cd98b7-ceae-4502-99b5-b99ace858f04.png)
 
-<body>
-<img src="Downloads\SWOT.PNG" width=100% height="100%">
-
-</body>
-</html>
 
 # 4W's and 1'H
 
 # Who
 * Theater
 # What
-To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
+* To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
 # When
-When user wants to carry out the tasks quickly and this reduces manual work and saves time
+* When user wants to carry out the tasks quickly and this reduces manual work and saves time
 # Where
-This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
+* This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
 # How
-By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
+* By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
+
+# Detail Requirements
+
+# High Level Requirements
+|**ID**|**DESCRIPTION**|**CATEGORY**|**STATUS**|
+|---|----|----|------|
+|HR01|Usershall be able to login to the system	|Techincal	|IMPLEMENTED
+HR02|User shall be able to purchase a ticket|	Techincal|	IMPLEMENTED
+|HR03|	User shall be able to get summary of the ticket booked|	Techincal|	IMPLEMENTED
+|HR04|	User shall be able to cancel a ticket|	Techincal|	IMPLEMENTED
+|HR05|	User shall be able to view the reserved seats	|Techincal|	IMPLEMENTED
+
+# Low Level Requirements
+|ID|	Description|	HLR ID	|Status (Implemented/Future)
+|--|-----|---|---|
+|LR01|	User shall be able to login to the system with correct login details|	HR01|	IMPLEMENTED
+|LR02|	User need to book a ticket in a user entry mode|	HR01|	IMPLEMENTED
+|LR03|	If appropriate login details are not entered a message is displayed-"wrong password"|	HR01|	IMPLEMENTED
+|LR04|	Displaying the movies available|	HR02	|IMPLEMENTED
+|LR05|	Admin can change the price for the movie|	HR02	|IMPLEMENTED
+|LR06|	If user specifies seat number which is booked ,message appears that the seat is unavaliable|	HR05|	IMPLEMENTED
+|LR07|	Displaying the summary of the ticket booked	|HR03|	IMPLEMENTED
 
 
