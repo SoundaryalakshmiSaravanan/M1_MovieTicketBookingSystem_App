@@ -2,7 +2,7 @@
 The main objective of the project is to provide information about the MOVIE TICKET BOOKING SYTEM to a customer to book the tickets.The project has been developed to carry out process more efficiently.The system allows the user to Book tickets,Cancel tickets,View all booking records.
 
 # Research
-In today's world though there are lots of platform for entairtainment movies play a major in entertaining us.Movie time is a time when the family can spend some time altogether.In order to make this hussel free Movie Ticket Booking application is developed. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket.
+In today's world though there are lots of platform for entertainment movies play a major in entertaining us.Movie time is a time when the family can spend some time altogether.In order to make this hussel free Movie Ticket Booking application is developed. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket.
 
 The main goal of the project is to a provide good  customer service. The application should fulfill almost all the process required for booking a ticket.
 
