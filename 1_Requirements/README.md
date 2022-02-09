@@ -1,10 +1,10 @@
 # Introduction
-The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records.
+The main objective of the project is to provide information about the MOVIE TICKET BOOKING SYTEM to a customer to book the tickets.The project has been developed to carry out process more efficiently.The system allows the user to Book tickets,Cancel tickets,View all booking records.
 
 # Research
-Cinemas help in contributing to our daily memories as they provide an essential part of our culture,going to cinemas has been the culture of almost all the families of today’s generation. It is a time when the family can spend some time altogether by stealing some hours from their busy schedule. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket
+In today's world though there are lots of platform for entairtainment movies play a major in entertaining us.Movie time is a time when the family can spend some time altogether.In order to make this hussel free Movie Ticket Booking application is developed. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket.
 
-The main goal of our project is to provide various types of customer facilities, and provide good  customer service It should fulfill almost all the process requirements of booking a ticket
+The main goal of the project is to a provide good  customer service. The application should fulfill almost all the process required for booking a ticket.
 
 # Cost and Features and Timeline
 # Features
@@ -14,51 +14,49 @@ The main goal of our project is to provide various types of customer facilities,
 * View all booking records
 
 # Cost and Timeline
-* Provides flexibility
-* For better performance
+* Reliability
 * User Friendly
+* Flexibility
 * Can Select the seats as per choice
 
-# Defining Our System
-Movie Ticket Booking System have few inbuilt features like Admin * Login * Can Change Price of a Ticket. * Can View the Reserved Tickets. * Exit System. User * Login with Credatials. * View the Movies Avaliable. * Purchase a Ticket. * View the avaliable seats. * Cancel a Ticket. * Exit System.
+# Defining The System
+Movie Ticket Booking System has few inbuilt features like Admin * Login * Can Change Price of a Ticket. * Can View the Reserved Tickets. * Exit System. User * Login with Credatials. * View the Movies Avaliable. * Purchase a Ticket. * View the avaliable seats. * Cancel a Ticket. * Exit System.
 
 # SWOT ANALYSIS
 ![SWOT](https://user-images.githubusercontent.com/98818008/152681443-67cd98b7-ceae-4502-99b5-b99ace858f04.png)
 
-
 # 4W's and 1'H
 
 # Who
-* Theater
+* This app finds application in **theaters**. 
 # What
-* To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
+* It can be implemented to bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin).
 # When
-* When user wants to carry out the tasks quickly and this reduces manual work and saves time
+* To book movie ticket when user wants to carry out the tasks quickly and saves time.
 # Where
-* This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
+* It can be implemented in theater where there is a lot of booking,cancellation of tickets takes place manually.
 # How
-* By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
+* By creating a system which will provide all the features such as booking off, cancelling of the tickes.
 
-# Detail Requirements
-
+# Detail Requirements  
 # High Level Requirements
 |**ID**|**DESCRIPTION**|**CATEGORY**|**STATUS**|
 |---|----|----|------|
-|HR01|Usershall be able to login to the system	|Techincal	|IMPLEMENTED
-HR02|User shall be able to purchase a ticket|	Techincal|	IMPLEMENTED
-|HR03|	User shall be able to get summary of the ticket booked|	Techincal|	IMPLEMENTED
-|HR04|	User shall be able to cancel a ticket|	Techincal|	IMPLEMENTED
-|HR05|	User shall be able to view the reserved seats	|Techincal|	IMPLEMENTED
+|HR01|User should be able to login to the system	|Techincal	|IMPLEMENTED
+|HR02|User should be able to purchase a ticket|	Techincal|	IMPLEMENTED
+|HR03|User shouldbe able to view the reserved seats	|	Techincal|	IMPLEMENTED
+|HR04|User should be able to get summary of the ticket booked|	Techincal|	IMPLEMENTED
+|HR05|User should be able to cancel a ticket	|Techincal|	IMPLEMENTED
 
 # Low Level Requirements
 |ID|	Description|	HLR ID	|Status (Implemented/Future)
 |--|-----|---|---|
-|LR01|	User shall be able to login to the system with correct login details|	HR01|	IMPLEMENTED
+|LR01|	User should be able to login to the system with correct login details|	HR01|	IMPLEMENTED
 |LR02|	User need to book a ticket in a user entry mode|	HR01|	IMPLEMENTED
 |LR03|	If appropriate login details are not entered a message is displayed-"wrong password"|	HR01|	IMPLEMENTED
 |LR04|	Displaying the movies available|	HR02	|IMPLEMENTED
 |LR05|	Admin can change the price for the movie|	HR02	|IMPLEMENTED
-|LR06|	If user specifies seat number which is booked ,message appears that the seat is unavaliable|	HR05|	IMPLEMENTED
-|LR07|	Displaying the summary of the ticket booked	|HR03|	IMPLEMENTED
+|LR06|	If user specifies seat number which is booked ,message appears that the seat is unavaliable|	HR03|	IMPLEMENTED
+|LR07|	Displaying the summary of the ticket booked	|HR04|	IMPLEMENTED
 
 
