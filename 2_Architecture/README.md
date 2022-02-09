@@ -1,6 +1,7 @@
 # Design
 # Behavioral Diagrams
-![highlevel](https://user-images.githubusercontent.com/98818008/152685004-eca9e5d5-6de2-4a59-a7b1-2a6f8a0ecc1d.png)
+![BEHAVIORAL drawio](https://user-images.githubusercontent.com/98818008/153155426-8a2145fa-92b3-42d1-8cb8-eecb773d4c8e.png)
+
 
 ## Use Case Diagram
 ![Usecasehdl](https://user-images.githubusercontent.com/98818008/152685792-53f09adf-7fef-4555-ac10-f87d8caa0675.png)
