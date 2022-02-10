@@ -82,7 +82,7 @@ while(x!=3)
                 goto a;
                 break;
              default:
-				printf("preference not available\n");
+				printf("choice not available\n");
 				break;
 				    }
 
@@ -92,7 +92,7 @@ while(x!=3)
 				x=3;
 				break;
 			default:
-				printf("preference not available\n");
+				printf("choice not available\n");
 				break;
 		}
 	}
