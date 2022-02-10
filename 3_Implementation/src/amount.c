@@ -8,7 +8,7 @@ int changeamountticket(int amount)
 	{
 		printf("Please enter new price: ");
 		scanf("%d",&amount);
-		printf("amount Updated Successfully: ");
+		printf("price Updated Successfully: ");
 		system("PAUSE");
 		system("CLS");
 	}
