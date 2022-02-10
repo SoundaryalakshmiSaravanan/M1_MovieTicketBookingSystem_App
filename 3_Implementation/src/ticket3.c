@@ -16,7 +16,7 @@ void show3(int preference,char name[10],int id1,int amount)
         printf("\t                                              Time      : 10:00pm\n");
         printf("\t                                              Hall      : 04\n");
         printf("\t                                              seats No. : %d  \n",preference);
-        printf("\t                                              amount . : %d  \n\n",amount);
+        printf("\t                                              price . : %d  \n\n",amount);
         person[count].id=id1;
         printf("\tThankYou For Booking a Ticket\n");
         return;
