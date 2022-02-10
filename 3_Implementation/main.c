@@ -23,7 +23,7 @@ while(x!=3)
 		    int y;
 		    int ch;
 			case 1:
-			    b:printf(" 1- To edit amount of ticket :   \n");
+			    b:printf(" 1- To edit price of ticket :   \n");
                 printf(" 2- To view reserved tickets:   \n");
                 printf(" 3- Exit  System:        \n");
 	            scanf("%d", &ch);
@@ -41,7 +41,7 @@ while(x!=3)
                 goto a;
                 break;
              default:
-				printf("preference not available\n");
+				printf("choice not available\n");
 				break;
 	            }
 
