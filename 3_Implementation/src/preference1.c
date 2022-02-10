@@ -8,7 +8,7 @@ int enterpreference(void)
 	printf("             2- User          \n");
 	printf("             3- Exit system:                                   \n");
 	printf("**********************\n");
-	printf("  Enter your preference: ");
+	printf("  Enter your choice: ");
 	scanf("%d",&preference);
 	return preference;
 }
