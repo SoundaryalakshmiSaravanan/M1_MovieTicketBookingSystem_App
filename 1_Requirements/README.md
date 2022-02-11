@@ -20,7 +20,7 @@ The main goal of the project is to provide good customer service.The application
 * Can Select the seats as per choice
 
 # Defining The System
-Movie Ticket Booking System has few inbuilt features like Admin * Login * Can Change Price of a Ticket. * Can View the Reserved Tickets. * Exit System. User * Login with Credatials. * View the Movies Avaliable. * Purchase a Ticket. * View the avaliable seats. * Cancel a Ticket. * Exit System.
+Movie Ticket Booking System has few inbuilt features like Admin * Login * Can Change Price of a Ticket. * Can View the Reserved Tickets. * Exit System. User * Login with Credentials. * View the Movies Available. * Purchase a Ticket. * View the Available seats. * Cancel a Ticket. * Exit System.
 
 # SWOT ANALYSIS
 ![swot drawio (1) drawio](https://user-images.githubusercontent.com/98818008/153141826-5b6b67c0-1541-4e77-839d-a70b2835a424.png)
