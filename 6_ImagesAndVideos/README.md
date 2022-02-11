@@ -14,7 +14,8 @@
 ### Ticket 2
 ![kote](https://user-images.githubusercontent.com/98818008/153577687-43ec1b52-01a1-44b0-9c5d-0f254bc1a7e3.png)
 ### Ticket 2 Summary
-![Ticket2Summary](https://user-images.githubusercontent.com/98818008/153614826-233cba19-70cc-444a-9c9c-8e7cde2e272d.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/98818008/153620482-d69311ce-5049-414a-9055-7de21de7567c.png)
+
 
 ### Ticket 3
 ![sara](https://user-images.githubusercontent.com/98818008/153577771-2c75bafa-2f6f-4237-b191-1a092ed1f37b.png)
