@@ -8,5 +8,6 @@
 ![GitHub_Learning](https://user-images.githubusercontent.com/98818008/152676613-1d62878e-7592-4f74-b966-fba308481b37.png)
 
 **HackerEarth Points**
-![HackerEarth](https://user-images.githubusercontent.com/98818008/152676735-30133fc9-1886-46cb-aca8-68742e399d49.png)
+![Hackerearth_points](https://user-images.githubusercontent.com/98818008/153545639-cdd1a307-b66c-414f-b026-19f8ea72e3e1.png)
+
 
