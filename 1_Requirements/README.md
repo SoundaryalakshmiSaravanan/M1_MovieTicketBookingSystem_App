@@ -30,35 +30,35 @@ Movie Ticket Booking System has few inbuilt features like Admin * Login * Can Ch
 # 4W's and 1'H
 
 # Who
-* This app finds application in **theaters**. 
+* This app finds its application in **THEATERS**. 
 # What
-* It can be implemented to bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin).
+* It can be implemented to build a system to book tickets,cancel tickest,view reservered seats and change the price of tickets(only admin).
 # When
-* To book movie ticket when user wants to carry out the tasks quickly and saves time.
+* To book a movie ticket when the user wants to carry out the tasks quickly and saves time.
 # Where
 * It can be implemented in theater where there is a lot of booking,cancellation of tickets takes place manually.
 # How
-* By creating a system which will provide all the features such as booking off, cancelling of the tickes.
+* By creating a system which will provide all the features such as booking off, canceling of the tickets.
 
 # Detail Requirements  
 # High Level Requirements
 |**ID**|**DESCRIPTION**|**CATEGORY**|**STATUS**|
 |---|----|----|------|
-|HR01|User should be able to login to the system	|Techincal	|IMPLEMENTED
-|HR02|User should be able to purchase a ticket|	Techincal|	IMPLEMENTED
-|HR03|User shouldbe able to view the reserved seats	|	Techincal|	IMPLEMENTED
-|HR04|User should be able to get summary of the ticket booked|	Techincal|	IMPLEMENTED
-|HR05|User should be able to cancel a ticket	|Techincal|	IMPLEMENTED
+|HR01|User must be able to login to the system	|Techincal	|IMPLEMENTED
+|HR02|User must be able to purchase a ticket|	Techincal|	IMPLEMENTED
+|HR03|User must be able to view the reserved seats	|	Techincal|	IMPLEMENTED
+|HR04|User must be able to get summary of the ticket booked|	Techincal|	IMPLEMENTED
+|HR05|User must be able to cancel a ticket	|Techincal|	IMPLEMENTED
 
 # Low Level Requirements
 |ID|	Description|	HLR ID	|Status (Implemented/Future)
 |--|-----|---|---|
-|LR01|	User should be able to login to the system with correct login details|	HR01|	IMPLEMENTED
+|LR01|	User must be able to login to the system with correct login details|	HR01|	IMPLEMENTED
 |LR02|	User need to book a ticket in a user entry mode|	HR01|	IMPLEMENTED
 |LR03|	If appropriate login details are not entered a message is displayed-"wrong password"|	HR01|	IMPLEMENTED
 |LR04|	Displaying the movies available|	HR02	|IMPLEMENTED
 |LR05|	Admin can change the price for the movie|	HR02	|IMPLEMENTED
-|LR06|	If user specifies seat number which is booked ,message appears that the seat is unavaliable|	HR03|	IMPLEMENTED
+|LR06|	If user specifies seat number which is booked ,message appears that the seat is unavailable|	HR03|	IMPLEMENTED
 |LR07|	Displaying the summary of the ticket booked	|HR04|	IMPLEMENTED
 
 
