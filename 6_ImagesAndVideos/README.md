@@ -9,15 +9,18 @@
 ![name](https://user-images.githubusercontent.com/98818008/153577193-a6ae0f50-29d5-4de8-b621-183aca4717c7.png)
 ![phnum](https://user-images.githubusercontent.com/98818008/153577362-af030604-2e8a-4a52-a02d-396c201f5514.png)
 ### Ticket 1 Summary
-![bill](https://user-images.githubusercontent.com/98818008/153577526-f4016e1f-7f24-4bbc-bdec-819741b0074c.png)
+![Ticket1summary](https://user-images.githubusercontent.com/98818008/153614521-3877ab31-f304-455c-b1e2-ef23693aacc6.png)
+
 ### Ticket 2
 ![kote](https://user-images.githubusercontent.com/98818008/153577687-43ec1b52-01a1-44b0-9c5d-0f254bc1a7e3.png)
 ### Ticket 2 Summary
-![bill2](https://user-images.githubusercontent.com/98818008/153577724-f4e0caf3-690b-4914-9298-f18da50fde61.png)
+![Ticket2Summary](https://user-images.githubusercontent.com/98818008/153614826-233cba19-70cc-444a-9c9c-8e7cde2e272d.png)
+
 ### Ticket 3
 ![sara](https://user-images.githubusercontent.com/98818008/153577771-2c75bafa-2f6f-4237-b191-1a092ed1f37b.png)
 ### Ticket 3 Summary
-![bill3](https://user-images.githubusercontent.com/98818008/153577812-e10a5d11-e5f4-410d-aa6e-695f85a26bba.png)
+![Ticket3Summary](https://user-images.githubusercontent.com/98818008/153615037-f99c4a80-c69a-4fe0-9753-b33b2d4fc266.png)
+
 ### Admin Mode
 ![image14-admin login](https://user-images.githubusercontent.com/98818008/153549396-a73dc378-758a-4325-a842-b3e508ade03a.png)
 ### Change Price
