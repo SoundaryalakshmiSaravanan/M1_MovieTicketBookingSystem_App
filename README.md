@@ -1,5 +1,5 @@
 # M1_MovieTicketBookingSystem_App
-## Application for Movie Ticket Booking System using C Programming 
+### Application for Movie Ticket Booking System using C Programming 
 
 
 <img src="https://user-images.githubusercontent.com/98818008/153588864-7303bd58-80bc-48f0-b157-cc53d3f1d592.jpg" width="250" height="250">
@@ -16,3 +16,10 @@
 4_TestplanAndOutput|	Documents with test plans and procedures
 5_Report| Documentation of the application
 6_ImagesAndVideos|	Screen-shots of the working code
+
+#### REFERENCES
+https://codersinc.in
+
+https://code-projects.org
+
+https://codeprojectz.com
