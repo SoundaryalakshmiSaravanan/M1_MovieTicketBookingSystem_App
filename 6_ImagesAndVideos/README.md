@@ -5,6 +5,8 @@
 ### To Purchase Ticket
 ![image3-user mode](https://user-images.githubusercontent.com/98818008/153548831-9ed21386-3b2f-4d2d-b375-b91e8fb3b64c.png)
 ![image3-usermode1 (1)](https://user-images.githubusercontent.com/98818008/153550172-522c1cda-ae8a-4285-b222-8a95494da3ce.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/98818008/153705830-3d7a735a-3191-4ce6-8474-2f607ffaa9ff.png)
+
 ### Ticket 1
 ![name](https://user-images.githubusercontent.com/98818008/153577193-a6ae0f50-29d5-4de8-b621-183aca4717c7.png)
 ![phnum](https://user-images.githubusercontent.com/98818008/153577362-af030604-2e8a-4a52-a02d-396c201f5514.png)
