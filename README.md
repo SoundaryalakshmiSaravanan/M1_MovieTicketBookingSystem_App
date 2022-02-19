@@ -6,6 +6,7 @@
 
 ![code quality score](https://api.codiga.io/project/31060/score/svg)    ![code grade](https://api.codiga.io/project/31060/status/svg)   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a7a85c16eb79408eab5e4a384c0627b7)](https://www.codacy.com/gh/SoundaryalakshmiSaravanan/M1_MovieTicketBookingSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SoundaryalakshmiSaravanan/M1_MovieTicketBookingSystem_App&amp;utm_campaign=Badge_Grade)
 [![Cppcheck](https://github.com/SoundaryalakshmiSaravanan/M1_MovieTicketBookingSystem_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SoundaryalakshmiSaravanan/M1_MovieTicketBookingSystem_App/actions/workflows/c-cpp.yml)
+[![Static Code Analysis](https://github.com/SoundaryalakshmiSaravanan/M1_MovieTicketBookingSystem_App/actions/workflows/static.yml/badge.svg)](https://github.com/SoundaryalakshmiSaravanan/M1_MovieTicketBookingSystem_App/actions/workflows/static.yml)
 
 ## Folder Structure
 |Folder	|Description|
@@ -14,7 +15,8 @@
 1_Requirements|	Documents detailing requirements and research
 2_Architecture	|Documents specifying design details
 3_Implementation|	All code and documentation
-4_TestplanAndOutput|	Documents with test plans and procedures
+4_TestplanAndOutput|	Documents with test plans and procedures![badge](https://user-images.githubusercontent.com/98818008/154810661-a35ca38f-dc57-485f-af68-fe2a9c788de9.svg)
+
 5_Report| Documentation of the application
 6_ImagesAndVideos|	Screen-shots of the working code
 
