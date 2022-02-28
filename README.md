@@ -16,13 +16,12 @@
 2_Architecture	|Documents specifying design details
 3_Implementation|	All code and documentation
 4_TestplanAndOutput|	Documents with test plans and procedures
-
 5_Report| Documentation of the application
 6_ImagesAndVideos|	Screen-shots of the working code
 
 #### REFERENCES
-https://codersinc.in
+1.https://codersinc.in
 
-https://code-projects.org
+2.https://code-projects.org
 
-https://codeprojectz.com
+3.https://codeprojectz.com
