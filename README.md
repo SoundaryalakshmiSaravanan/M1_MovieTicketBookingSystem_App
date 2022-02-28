@@ -15,7 +15,7 @@
 1_Requirements|	Documents detailing requirements and research
 2_Architecture	|Documents specifying design details
 3_Implementation|	All code and documentation
-4_TestplanAndOutput|	Documents with test plans and procedures![badge](https://user-images.githubusercontent.com/98818008/154810661-a35ca38f-dc57-485f-af68-fe2a9c788de9.svg)
+4_TestplanAndOutput|	Documents with test plans and procedures
 
 5_Report| Documentation of the application
 6_ImagesAndVideos|	Screen-shots of the working code
