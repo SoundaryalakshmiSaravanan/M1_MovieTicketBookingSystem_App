@@ -1,3 +1,13 @@
+/**
+ * @file function.h
+ * @author SoundaryalakshmiSaravanan (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-12
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #ifndef __FUNCTION_H__
 #define __FUNCTION_H__
 #include <stdio.h>
