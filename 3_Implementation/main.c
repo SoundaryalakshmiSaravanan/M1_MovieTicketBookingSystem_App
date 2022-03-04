@@ -19,7 +19,7 @@
 int main()
 {
     int count = 0;
-	int **placenum,preference,amount=500,selection,i;
+	int **placenum,preference,amount=500,selection,i;         // Variables to place number,preference of seat, amount, selection
 	placenum=(int **)calloc(101,sizeof(int *));
 	for (i=0;i<3;i++)
 		*(placenum+i)=(int *)calloc(101,sizeof(int ));
@@ -38,11 +38,11 @@ while(x!=3)
                 printf(" 3- Exit  System:        \n");
 	            scanf("%d", &ch);
 	            switch(ch){
-            case 1:
+            case 1:                                     // amount to be changed by admin only 
                 amount=changeamountticket(amount);
                 goto b;
 				break;
-            case 2:
+            case 2:                                   
                 details();
                 goto b;
 				break;
@@ -55,7 +55,7 @@ while(x!=3)
 				break;
 	            }
 
-	        case 2:
+	        case 2:                    // User login for users
                 c:
                 printf(" User login: \n");
                 printf("        1- To purchase ticket:        \n");
