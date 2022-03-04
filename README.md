@@ -1,5 +1,5 @@
 # M1_MovieTicketBookingSystem_App
-### Application for Movie Ticket Booking System using C Programming 
+## Application for Movie Ticket Booking System using C Programming 
 
 
 <img src="https://user-images.githubusercontent.com/98818008/153588864-7303bd58-80bc-48f0-b157-cc53d3f1d592.jpg" width="250" height="250">
