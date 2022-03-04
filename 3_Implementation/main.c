@@ -20,25 +20,25 @@ int main()
 {
     int count = 0;
 	int **placenum,preference,amount=500,selection,i;         // Variables to place number,preference of seat, amount, selection
-	placenum=(int **)calloc(101,sizeof(int *));
+	placenum=(int **)calloc(101,sizeof(int *));               // seat number allocation is done
 	for (i=0;i<3;i++)
 		*(placenum+i)=(int *)calloc(101,sizeof(int ));
 	int x;
 	char pass[10],pak[10]="user";
 while(x!=3)
 	{
-        a:preference=enterpreference();
+        a:preference=enterpreference();                                // preference variable is called to change the choice
 		switch(preference)
 		{
 		    int y;
 		    int ch;
 			case 1:
-			    b:printf(" 1- To edit price of ticket :   \n");
+			    b:printf(" 1- To edit price of ticket :   \n");     
                 printf(" 2- To view reserved tickets:   \n");
                 printf(" 3- Exit  System:        \n");
 	            scanf("%d", &ch);
 	            switch(ch){
-            case 1:                                     // amount to be changed by admin only 
+            case 1:                                                   // amount to be changed by admin only 
                 amount=changeamountticket(amount);
                 goto b;
 				break;
@@ -55,7 +55,7 @@ while(x!=3)
 				break;
 	            }
 
-	        case 2:                    // User login for users
+	        case 2:                                              // User login for users             
                 c:
                 printf(" User login: \n");
                 printf("        1- To purchase ticket:        \n");
@@ -65,12 +65,12 @@ while(x!=3)
                 switch(ch){
 
 
-                case 1:
+                case 1:                                                          // switch case to book ticket
                     printf("Enter the password to book the ticket: ");
                     scanf("%s",&pass);
                     if (strcmp(pass,pak)==0){
                         selection=ListofMovies();
-                        reserveticket(placenum[selection-1],amount,selection);
+                        reserveticket(placenum[selection-1],amount,selection);     // ticked booked along with seatnumber, amount, movie selection is displayed
                         count++;
                     }
                     else
@@ -78,7 +78,7 @@ while(x!=3)
                     goto c;
                     break;
                 case 2:
-                    printf("Enter the password to book the ticket: ");
+                    printf("Enter the password to book the ticket: ");         // Cancelled ticket is displayed
                     scanf("%s",&pass);
                     if (strcmp(pass,pak)==0){
                         selection=movieselect();
