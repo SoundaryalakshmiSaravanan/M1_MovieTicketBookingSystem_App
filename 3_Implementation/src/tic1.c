@@ -1,3 +1,13 @@
+/**
+ * @file function.h
+ * @author SoundaryalakshmiSaravanan (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-20
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "function.h"
 #include "moviedetails.c"
 #include<string.h>
